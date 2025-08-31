@@ -5,7 +5,7 @@ This Github repository serves as a public place to store notes for school and se
 ## How to View in Obsidian?
 This will be a quick summary on how to view in obsidian. For an extended and detailed guide with pictures click [[Cloning|here]].
 
-- [Download and install Obsidian]([Download - Obsidian](https://obsidian.md/download))
+- [Download and install Obsidian](https://obsidian.md/download)
 - 
 ## Recommended Plugins
 
