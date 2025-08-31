@@ -1,1 +1,6 @@
-# obsidian-notes
+# SCHOOL NOTES
+
+
+# Contributors
+- Jesse James
+- Sky
