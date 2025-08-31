@@ -1,4 +1,2 @@
-# Discrete Structures
-
 ## Topics
 - 
