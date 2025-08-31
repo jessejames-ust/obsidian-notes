@@ -4,3 +4,4 @@
 ### Year 1
 - [[Discrete Structures]]
 - [[Understanding the Self]]
+- [[Intro to Computing]]
